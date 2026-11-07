@@ -1,0 +1,14 @@
+# Ambiente virtual 
+venv_d3/
+
+# Arquivos de dados 
+data/*.csv
+
+# Cache do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
